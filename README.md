@@ -37,3 +37,9 @@ http://introtodeeplearning.com/
 
 12) The Hundred-Page Machine Learning Book (by Adriy Burkov)
 http://themlbook.com/
+
+13) Berkeley - Introduction to Artificial Intelligence
+https://inst.eecs.berkeley.edu/~cs188/fa18/
+
+14) Berkeley - Deep Unsupervised Learning
+https://sites.google.com/view/berkeley-cs294-158-sp19/home
