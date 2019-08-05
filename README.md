@@ -1,5 +1,5 @@
-# MachineLearning
-Machine Learning Resources
+
+# Machine Learning Resources
 
 Online Machine Learning resources
 1) Stanford - Probability and statistics course 
